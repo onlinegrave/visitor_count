@@ -7,7 +7,7 @@
 - Shell
 
 ### STEPS
-- Check chrome [version](https://chrom://version)
+- Check chrome [version](https://chrome://version)
 - Download [chrome driver](https://chromedriver.chromium.org/downloads)
 - Execute ```sh pip -r requirments.txt ```
 - Execute ```sh  python increase_count.py ```
